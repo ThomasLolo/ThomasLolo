@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <img src="http://views.whatilearened.today/views/github/Thomaslolo/views.svg"/>
 <p>
   <br/>
+  <br/>
   🧔 &nbsp;I am <bold>Thomas</bold>. 23 years old, based in Toulouse, France.<br/>
   💻 &nbsp;Major of promotion at <bold><em><a href="https://www.upssitech.eu/">Upssitech</a></em></bold> and 2 times intern at <bold><em><a href="https://www.jpl.nasa.gov/">NASA Jet Propulsion Laboratory</a></em></bold>.<br/>
   🎓 &nbsp;I am currently improving my skills in deep learning and computer vision. 
